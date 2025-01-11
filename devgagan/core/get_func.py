@@ -196,7 +196,7 @@ async def get_msg(userbot, sender, edit_id, msg_link, i, message):
                 thumb_path = await screenshot(file, duration, chatx)
                 # prog = None
                 try:
-                    X = -1002496913494
+                    X = -1002326411785
                     if file_extension in VIDEO_EXTENSIONS:
                         dm = await pro.send_video(
                             LOG_GROUP, 
